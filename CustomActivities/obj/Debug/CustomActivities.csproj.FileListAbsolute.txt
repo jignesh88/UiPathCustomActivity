@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\CustomActivities\CustomActivities\bin\Debug\CustomActivities.dll
+C:\Users\Administrator\source\repos\CustomActivities\CustomActivities\bin\Debug\CustomActivities.pdb
+C:\Users\Administrator\source\repos\CustomActivities\CustomActivities\obj\Debug\CustomActivities.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CustomActivities\CustomActivities\obj\Debug\CustomActivities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CustomActivities\CustomActivities\obj\Debug\CustomActivities.dll
+C:\Users\Administrator\source\repos\CustomActivities\CustomActivities\obj\Debug\CustomActivities.pdb
